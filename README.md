@@ -3,7 +3,7 @@
 
 #### Estrutura do repositório
 -----------------
-::Programacao_Web_com_Python_e_Django_Framework_ Essencial
+::
 
     cursos-livros-web-Back
     ├── Design_Patterns_Python_I - https://www.alura.com.br/
